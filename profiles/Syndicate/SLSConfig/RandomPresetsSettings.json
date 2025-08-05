@@ -1,0 +1,91 @@
+{
+    "RPresets": [
+        {
+            "randomPresetName": "Foodspawn",
+            "globalLootItems": [
+                {
+                    "itemName": "Apple",
+                    "chance": 0.5299999713897705,
+                    "minItems": 1,
+                    "maxItems": 1,
+                    "quantity": -2,
+                    "attachments": []
+                },
+                {
+                    "itemName": "Pear",
+                    "chance": 0.5299999713897705,
+                    "minItems": 1,
+                    "maxItems": 1,
+                    "quantity": -2,
+                    "attachments": []
+                },
+                {
+                    "itemName": "Plum",
+                    "chance": 0.5299999713897705,
+                    "minItems": 1,
+                    "maxItems": 1,
+                    "quantity": -2,
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "randomPresetName": "MiscCommon",
+            "globalLootItems": [
+                {
+                    "itemName": "AntiPestsSpray",
+                    "chance": 0.5199999809265137,
+                    "minItems": 1,
+                    "maxItems": 1,
+                    "quantity": -2,
+                    "attachments": []
+                },
+                {
+                    "itemName": "Battery9V",
+                    "chance": 0.5199999809265137,
+                    "minItems": 1,
+                    "maxItems": 1,
+                    "quantity": -2,
+                    "attachments": []
+                },
+                {
+                    "itemName": "BatteryCharger",
+                    "chance": 0.5199999809265137,
+                    "minItems": 1,
+                    "maxItems": 1,
+                    "quantity": -2,
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "randomPresetName": "Medical",
+            "globalLootItems": [
+                {
+                    "itemName": "BandageDressing",
+                    "chance": 0.5400000214576721,
+                    "minItems": 1,
+                    "maxItems": 1,
+                    "quantity": -2,
+                    "attachments": []
+                },
+                {
+                    "itemName": "BloodBagEmpty",
+                    "chance": 0.5400000214576721,
+                    "minItems": 1,
+                    "maxItems": 1,
+                    "quantity": -2,
+                    "attachments": []
+                },
+                {
+                    "itemName": "BloodBagIV",
+                    "chance": 0.5400000214576721,
+                    "minItems": 1,
+                    "maxItems": 1,
+                    "quantity": -2,
+                    "attachments": []
+                }
+            ]
+        }
+    ]
+}

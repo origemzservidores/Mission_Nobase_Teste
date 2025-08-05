@@ -1,0 +1,112 @@
+{
+    "loglevel": 0,
+    "BubakLocations": [
+        {
+            "forceclear": 0,
+            "name": "BUNKER HofySoy",
+            "workinghours": "0-24",
+            "triggerdependency": [
+                ""
+            ],
+            "triggerpos": "7741.371094 26.887268 714.954956",
+            "triggermins": "",
+            "triggermaxs": "",
+            "triggerradius": 0.0,
+            "triggercylradius": 0.0,
+            "triggercylheight": 0.0,
+            "notification": "Alarme de invasão ativado!!",
+            "notificationtime": 2,
+            "triggerdelay": 300,
+            "spawnerpos": [
+                "7769.395508 26.935551 729.968201",
+                "7790.08 26.9216 712.665",
+                "7791.77 26.9326 733.759"
+            ],
+            "spawnradius": -1.0,
+            "bubaknum": 3,
+            "onlyfilluptobubaknum": 0,
+            "itemrandomdmg": 0,
+            "entitytospawn": [
+                {
+                    "name": "ZmbM_NBC_Yellow",
+                    "chance": 1.0,
+                    "maxloot": 3,
+                    "inventory": [
+                        {
+                            "name": "M67Grenade",
+                            "chance": 1.0,
+                            "min": 1,
+                            "max": 1,
+                            "quantity": 1
+                        },
+                        {
+                            "name": "SpaghettiCan_Opened",
+                            "chance": 0.6000000238418579,
+                            "min": 1,
+                            "max": 1,
+                            "quantity": 20
+                        },
+                        {
+                            "name": "Ammo_762x54",
+                            "chance": 0.20000000298023225,
+                            "min": 1,
+                            "max": 1,
+                            "quantity": 50
+                        },
+                        {
+                            "name": "Ammo_556x45",
+                            "chance": 0.800000011920929,
+                            "min": 1,
+                            "max": 1,
+                            "quantity": 80
+                        }
+                    ]
+                },
+                {
+                    "name": "ZmbM_NBC_Grey",
+                    "chance": 1.0,
+                    "maxloot": 3,
+                    "inventory": [
+                        {
+                            "name": "M67Grenade",
+                            "chance": 1.0,
+                            "min": 1,
+                            "max": 1,
+                            "quantity": 1
+                        },
+                        {
+                            "name": "SpaghettiCan_Opened",
+                            "chance": 0.6000000238418579,
+                            "min": 1,
+                            "max": 1,
+                            "quantity": 20
+                        },
+                        {
+                            "name": "Ammo_762x54",
+                            "chance": 0.20000000298023225,
+                            "min": 1,
+                            "max": 1,
+                            "quantity": 50
+                        },
+                        {
+                            "name": "Ammo_556x45",
+                            "chance": 0.800000011920929,
+                            "min": 1,
+                            "max": 1,
+                            "quantity": 80
+                        }
+                    ]
+                },
+                {
+                    "name": "AP_zmb_omon",
+                    "chance": 1.0,
+                    "maxloot": 0,
+                    "inventory": []
+                }
+            ],
+            "customScripts": [
+                ""
+            ]
+        }
+    ]
+}

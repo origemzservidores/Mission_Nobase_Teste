@@ -1,0 +1,29 @@
+{
+    "NoMaskItems": [
+        "ExampleMaskClassName"
+    ],
+    "NoEarsItems": [
+        "ExampleEarsClassName"
+    ],
+    "NoUNLVestItems": [
+        "ExampleUNLVestClassName"
+    ],
+    "NoEyewearItems": [
+        "ExampleEyewearClassName"
+    ],
+    "NoVestItems": [
+        "ExampleVestClassName"
+    ],
+    "NoBackpackItems": [
+        "ExampleBackpackClassName"
+    ],
+    "NoHelmet1Items": [
+        "ExampleHelmet1ClassName"
+    ],
+    "NoNVStrapItems": [
+        "ExampleNVStrapClassName"
+    ],
+    "IsStrapItems": [
+        "ExampleStrapClassName"
+    ]
+}

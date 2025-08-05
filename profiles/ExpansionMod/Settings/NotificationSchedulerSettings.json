@@ -1,0 +1,170 @@
+{
+  "m_Version": 2,
+  "Enabled": 1,
+  "UTC": 0,
+  "UseMissionTime": 0,
+  "Notifications": [
+    {
+      "Hour": 1,
+      "Minute": 55,
+      "Second": 0,
+      "Title": "Server Restart 02:00",
+      "Text": "O servidor vai reiniciar em 5 minutos.",
+      "Icon": "Error",
+      "Color": "FFCA00FF"
+    },
+    {
+      "Hour": 1,
+      "Minute": 45,
+      "Second": 0,
+      "Title": "Server Restart 02:00",
+      "Text": "O servidor vai reiniciar em 15 minutos.",
+      "Icon": "Error",
+      "Color": "FFCA00FF"
+    },
+    {
+      "Hour": 1,
+      "Minute": 30,
+      "Second": 0,
+      "Title": "Server Restart 02:00",
+      "Text": "O servidor vai reiniciar em 30 minutos.",
+      "Icon": "Error",
+      "Color": "FFCA00FF"
+    },
+    {
+      "Hour": 5,
+      "Minute": 55,
+      "Second": 0,
+      "Title": "Server Restart 06:00",
+      "Text": "O servidor vai reiniciar em 5 minutos.",
+      "Icon": "Error",
+      "Color": "FFCA00FF"
+    },
+    {
+      "Hour": 5,
+      "Minute": 45,
+      "Second": 0,
+      "Title": "Server Restart 06:00",
+      "Text": "O servidor vai reiniciar em 15 minutos.",
+      "Icon": "Error",
+      "Color": "FFCA00FF"
+    },
+    {
+      "Hour": 5,
+      "Minute": 30,
+      "Second": 0,
+      "Title": "Server Restart 06:00",
+      "Text": "O servidor vai reiniciar em 30 minutos.",
+      "Icon": "Error",
+      "Color": "FFCA00FF"
+    },
+    {
+      "Hour": 9,
+      "Minute": 55,
+      "Second": 0,
+      "Title": "Server Restart 10:00",
+      "Text": "O servidor vai reiniciar em 5 minutos.",
+      "Icon": "Error",
+      "Color": "FFCA00FF"
+    },
+    {
+      "Hour": 9,
+      "Minute": 45,
+      "Second": 0,
+      "Title": "Server Restart 10:00",
+      "Text": "O servidor vai reiniciar em 15 minutos.",
+      "Icon": "Error",
+      "Color": "FFCA00FF"
+    },
+    {
+      "Hour": 9,
+      "Minute": 30,
+      "Second": 0,
+      "Title": "Server Restart 10:00",
+      "Text": "O servidor vai reiniciar em 30 minutos.",
+      "Icon": "Error",
+      "Color": "FFCA00FF"
+    },
+    {
+      "Hour": 13,
+      "Minute": 55,
+      "Second": 0,
+      "Title": "Server Restart 14:00",
+      "Text": "O servidor vai reiniciar em 5 minutos.",
+      "Icon": "Error",
+      "Color": "FFCA00FF"
+    },
+    {
+      "Hour": 13,
+      "Minute": 45,
+      "Second": 0,
+      "Title": "Server Restart 14:00",
+      "Text": "O servidor vai reiniciar em 15 minutos.",
+      "Icon": "Error",
+      "Color": "FFCA00FF"
+    },
+    {
+      "Hour": 13,
+      "Minute": 30,
+      "Second": 0,
+      "Title": "Server Restart 14:00",
+      "Text": "O servidor vai reiniciar em 30 minutos.",
+      "Icon": "Error",
+      "Color": "FFCA00FF"
+    },
+    {
+      "Hour": 17,
+      "Minute": 55,
+      "Second": 0,
+      "Title": "Server Restart 18:00",
+      "Text": "O servidor vai reiniciar em 5 minutos.",
+      "Icon": "Error",
+      "Color": "FFCA00FF"
+    },
+    {
+      "Hour": 17,
+      "Minute": 45,
+      "Second": 0,
+      "Title": "Server Restart 18:00",
+      "Text": "O servidor vai reiniciar em 15 minutos.",
+      "Icon": "Error",
+      "Color": "FFCA00FF"
+    },
+    {
+      "Hour": 17,
+      "Minute": 30,
+      "Second": 0,
+      "Title": "Server Restart 18:00",
+      "Text": "O servidor vai reiniciar em 30 minutos.",
+      "Icon": "Error",
+      "Color": "FFCA00FF"
+    },
+    {
+      "Hour": 21,
+      "Minute": 55,
+      "Second": 0,
+      "Title": "Server Restart 22:00",
+      "Text": "O servidor vai reiniciar em 5 minutos.",
+      "Icon": "Error",
+      "Color": "FFCA00FF"
+    },
+    {
+      "Hour": 21,
+      "Minute": 45,
+      "Second": 0,
+      "Title": "Server Restart 22:00",
+      "Text": "O servidor vai reiniciar em 15 minutos.",
+      "Icon": "Error",
+      "Color": "FFCA00FF"
+    },
+    {
+      "Hour": 21,
+      "Minute": 30,
+      "Second": 0,
+      "Title": "Server Restart 22:00",
+      "Text": "O servidor vai reiniciar em 30 minutos.",
+      "Icon": "Error",
+      "Color": "FFCA00FF"
+    }
+  ]
+}

@@ -1,0 +1,130 @@
+{
+    "version": 2,
+    "admins": [
+        {
+            "steamid": "76561198141097113",
+            "ingameNameForPermissions": "",
+            "comment": "Remove Me",
+            "grantAllPermissions": 1,
+            "permissionGroups": [
+                "Owner"
+            ]
+        },
+        {
+            "steamid": "SteamiID Here",
+            "ingameNameForPermissions": "",
+            "comment": "Another Admin",
+            "grantAllPermissions": 0,
+            "permissionGroups": [
+                "Admin"
+            ]
+        },
+        {
+            "steamid": "I also need a Steamid",
+            "ingameNameForPermissions": "Peter",
+            "comment": "And a third one",
+            "grantAllPermissions": 0,
+            "permissionGroups": [
+                "Support"
+            ]
+        }
+    ],
+    "groups": [
+        {
+            "name": "Owner",
+            "permissions": {
+                "core.toggle.adminmode": 1,
+                "core.change.webhooks": 1,
+                "core.read.players": 1,
+                "skinsystem.change.permissions": 1,
+                "skinsystem.access.all": 1,
+                "core.view.errorlogs": 1,
+                "skinsystem.change.static": 1,
+                "core.teleport.staticplaced": 1,
+                "hoverloot.change.config": 1,
+                "core.change.currencies": 1,
+                "skinsystem.change.skins": 1,
+                "core.change.presets": 1,
+                "core.change.admins": 1,
+                "core.change.appearancesettings": 1,
+                "core.reload.configs": 1,
+                "skinsystem.change.swaps": 1,
+                "core.change.logger": 1,
+                "core.change.icons": 1,
+                "skinsystem.change.mainconfig": 1
+            }
+        },
+        {
+            "name": "Admin",
+            "permissions": {
+                "core.toggle.adminmode": 1,
+                "core.change.webhooks": 0,
+                "core.read.players": 1,
+                "skinsystem.change.permissions": 1,
+                "skinsystem.access.all": 0,
+                "core.view.errorlogs": 0,
+                "skinsystem.change.static": 0,
+                "core.teleport.staticplaced": 1,
+                "hoverloot.change.config": 1,
+                "core.change.currencies": 1,
+                "skinsystem.change.skins": 1,
+                "core.change.presets": 1,
+                "core.change.admins": 0,
+                "core.change.appearancesettings": 1,
+                "core.reload.configs": 0,
+                "skinsystem.change.swaps": 1,
+                "core.change.logger": 0,
+                "core.change.icons": 1,
+                "skinsystem.change.mainconfig": 1
+            }
+        },
+        {
+            "name": "Moderator",
+            "permissions": {
+                "core.toggle.adminmode": 1,
+                "core.change.webhooks": 0,
+                "core.read.players": 0,
+                "skinsystem.change.permissions": 0,
+                "skinsystem.access.all": 0,
+                "core.view.errorlogs": 0,
+                "skinsystem.change.static": 0,
+                "core.teleport.staticplaced": 0,
+                "hoverloot.change.config": 0,
+                "core.change.currencies": 0,
+                "skinsystem.change.skins": 0,
+                "core.change.presets": 0,
+                "core.change.admins": 0,
+                "core.change.appearancesettings": 0,
+                "core.reload.configs": 0,
+                "skinsystem.change.swaps": 0,
+                "core.change.logger": 0,
+                "core.change.icons": 0,
+                "skinsystem.change.mainconfig": 0
+            }
+        },
+        {
+            "name": "Support",
+            "permissions": {
+                "core.toggle.adminmode": 1,
+                "core.change.webhooks": 0,
+                "core.read.players": 0,
+                "skinsystem.change.permissions": 0,
+                "skinsystem.access.all": 0,
+                "core.view.errorlogs": 0,
+                "skinsystem.change.static": 0,
+                "core.teleport.staticplaced": 0,
+                "hoverloot.change.config": 0,
+                "core.change.currencies": 0,
+                "skinsystem.change.skins": 0,
+                "core.change.presets": 0,
+                "core.change.admins": 0,
+                "core.change.appearancesettings": 0,
+                "core.reload.configs": 0,
+                "skinsystem.change.swaps": 0,
+                "core.change.logger": 0,
+                "core.change.icons": 0,
+                "skinsystem.change.mainconfig": 0
+            }
+        }
+    ]
+}

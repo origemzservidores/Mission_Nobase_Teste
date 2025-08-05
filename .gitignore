@@ -1,143 +1,55 @@
-/@Admirals Diving Mod
-/@Admirals Parachute Mod
-/@Advanced Weapon Scopes
-/@Alteria
-/@BaseBuildingPlus
-/@Better Inspect
-/@CannabisPlus
-/@CF
-/@CodeLock to ExpansionCodeLock Bridge
-/@Collectable Items
-/@Community-Online-Tools
-/@Dabs Framework
-/@DayZ Editor Loader
-/@DayZ-Expansion-Bundle
-/@DayZ-Expansion-Licensed
-/@Dogtags
-/@Early Winter or late Fall in Chernarus
-/@FlipTransport
-/@GSC Gameworld Assets (JMC Edition)
-/@KOTH
-/@Mystery Box
-/@OrigemZ Core Alteria
-/@RedFalcon Watercraft
-/@ServerMods
-/@TerrainIslands
-/@VPPAdminTools
-/addons
-/backups
-/battleye
+# Mods
+/@*
+
+# Executáveis e DLLs
+*.exe
+*.dll
+
+# Arquivos de configuração e logs
 *.txt
-buildid
-/config
+*.log
+*.RPT
+*.ADM
+*.mdmp
+*.cfg
+*.xml
 dayz.gproj
-DayZServer_x64.exe
-dayzsetting.xml
-/dta
-/keys
-/logs
+buildid
 omega.cfg
-/profiles/@Logging
-/profiles/BattlEye
-serverDZ.cfg
 serverDZ.cfg.active
 steam_api64.dll
 steamclient64.dll
 tier0_s64.dll
-UpdateVips.deps.json
-UpdateVips.dll
-UpdateVips.exe
-UpdateVips.runtimeconfig.json
 vstdlib_s64.dll
-server_manager/Server_manager.ps1
-/profiles/PermissionsFramework
-/profiles/ExpansionMod/ATM
-/profiles/GAREA_Leaderboard/PlayerDB
-/mpmissions/dayzOffline.Alteria/storage_1
-/profiles/CommunityOnlineTools
-/profiles/EventManagerLog
-/profiles/OrigemSeguroVeiculo/DataBase
-/profiles/OrigemZStore/Logs
-/profiles/WebApiLog
-/profiles/LBmaster/Data/Core/LastLoadouts.json
-*.log
-*.RPT
-*.ADM
-/@FM OrigemZ Clothers
-/@FM OrigemZ Weapons
-/@OrigemZ Base Items
-/@OrigemZ Helicopters
-/@OrigemZ Vehicles
-/profiles/DataCache
-/profiles/KOTH/ActiveEvents.json
-/profiles/KOTH/*.log
-profiles/serverconsole.log
-/mpmissions/dayzOffline.Alteria/storage_0
-auto_merge.ps1
-mpmissions/dayzOffline.alteria/expansion/traderzones/World.json
-/mpmissions/dayzOffline.Alteria/expansion/traderzones/backup
-/@GameLabs
-*.mdmp
-/profiles/KeyCardSystem/data
-profiles/OrigemZC4/OrigemZC4_Decommented_Config.json
-profiles/GAREA_Leaderboard/GAREA_LeaderboardConfig.json
-/profiles/ExpansionMod/Groups
-/profiles/ExpansionMod/Quests/GroupData
-/@MMG Base Storage
-/@NoRelogHere
-/@OrigemZ Core VanillaPlus
-/@OZ_Clothes_Test
-/@Vote-Skip-Night
-/@WindstridesClothingPack
+
+# Diretórios do sistema
+/addons
+/backups
+/battleye
+/config
+/dta
+/keys
+/logs
 /bliss
 /appcache
 /changes
-/mpmissions/dayzOffline.chernarusplus/storage_1
-profiles/LBmaster/Data/Killfeed/killstreaks.json
-profiles/LBmaster/Data/Core/playernames.json
-/profiles/Users/Server/VPPDebugMissions
 /sakhal
-profiles/LBmaster/Data/Killfeed/history.json
-/mpmissions/dayzOffline.chernarusplus/storage_0
-/profiles/Users/Server/VPPDebugMissions
-profiles/ExpansionMod/Settings/PartySettings.json
-profiles/ExpansionMod/Settings/TerritorySettings.json
-profiles/gamelabs.cfg
-profiles/LBmaster/Data/Killfeed/trapplacements.json
-/profiles/Users
-profiles/OrigemKeyLogger/config.json
-/profiles/Users/Server/VPPDebugMissions
-/@OrigemZ Core VanillaPlus S8
-/@OrigemZ Transport
-/@ServerMods-Veiculos
-/@MMG Base Storage NoCodeLock
-/mpmissions/vanillaplus.chernarusplus/storage_1
-mpmissions/vanillaplus.chernarusplus/storage_1/
-profiles/SIG_Raid/RaidConfigs.json
-profiles/Users
-profiles/ExpansionMod/Settings/RaidSettings.json
-profiles/ExpansionMod/Settings/PartySettings.json
 
-/mpmissions/vanillaplus.chernarusplus/storage_0
-profiles/SIG_Raid/RaidConfigs.json
-/@Survivor Animations
-/@OrigemZ VanillaPlus Weapons
-/@OrigemZ VanillaPlus Core
-/@OrigemZ VanillaPlus BaseItems
-/@OrigemZ VanillaPlus Clothing
-/profiles/LBmaster/Data/Core/Players
-/profiles/OrigemSpawnSelect/Cooldowns
+# Profiles (usar padrão mais amplo)
+/profiles/Users/
+
+# Storage (usar padrão mais amplo)
+/mpmissions/*/storage_*
+
+# Executáveis UpdateVips
+UpdateVips.*
+
+# Scripts
+server_manager/Server_manager.ps1
+auto_merge.ps1
 auto_merge.sh
-/@@ServerMod
-/@BetterStash
-/@DayZ-Expansion-Core
-/@DayZ-Expansion-Map-Assets
-/@DayZ-Expansion-Navigation
-/@DayZ-Expansion-Weapons
-/@DayZ-Expansion
-/@OrigemZ Core Cloth
-/@OrigemZ Core Weapons
-/@OrigemZ NoBase Cloth
-/@OrigemZ NoBase Core
-/@OrigemZ NoBase Weapons
-/@SkyZ - Skybox Overhaul
+/profiles/CommunityOnlineTools
+/profiles/KeyCardSystem/data
+/profiles/LBmaster/Data
+/profiles/PermissionsFramework
+/profiles/VPPAdminTools

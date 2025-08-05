@@ -1,0 +1,133 @@
+{
+    "version": 1,
+    "locations": [
+        {
+            "locationName": "My Location T1",
+            "className": "OZ_Door_ReforcedT1",
+            "location": [
+                2469.39990234375,
+                193.8699951171875,
+                5129.2998046875
+            ],
+            "dir": [
+                80.55699920654297,
+                0.0,
+                0.0
+            ],
+            "autoClose": 30.0,
+            "crateLocation": [
+                2471.0,
+                193.75,
+                5129.7998046875
+            ],
+            "crateDir": [
+                80.0,
+                0.0,
+                0.0
+            ],
+            "craterName": "OZ_Crate_LightBlue",
+            "openDelay": 10.0,
+            "closeDelay": 10.0,
+            "CrateMaxLoot": 10,
+            "MinWeaponCount": 1,
+            "MinAmmoCount": 2,
+            "MinClothCount": 1,
+            "crateLoot": [
+                {
+                    "Name": "M4A1",
+                    "Chance": 100.0,
+                    "Min": 1,
+                    "Max": 1,
+                    "RandomizeQuantity": 1,
+                    "ChanceOnQuantity": 1,
+                    "Attachments": [
+                        "M4_CQBBttstck",
+                        "M4_MPHndgrd",
+                        "Mag_STANAG_30Rnd",
+                        "ACOGOptic_6x"
+                    ],
+                    "Linked": []
+                },
+                {
+                    "Name": "M4A1",
+                    "Chance": 100.0,
+                    "Min": 1,
+                    "Max": 1,
+                    "RandomizeQuantity": 1,
+                    "ChanceOnQuantity": 1,
+                    "Attachments": [
+                        "M4_CQBBttstck",
+                        "M4_MPHndgrd",
+                        "Mag_STANAG_30Rnd",
+                        "ACOGOptic_6x"
+                    ],
+                    "Linked": []
+                }
+            ]
+        },
+        {
+            "locationName": "My Location T2",
+            "className": "OZ_Door_ReforcedT2",
+            "location": [
+                2476.10009765625,
+                193.77000427246095,
+                5136.7001953125
+            ],
+            "dir": [
+                -9.989999771118164,
+                0.0,
+                0.0
+            ],
+            "autoClose": 30.0,
+            "crateLocation": [
+                2474.800048828125,
+                193.75,
+                5138.89990234375
+            ],
+            "crateDir": [
+                89.0999984741211,
+                0.0,
+                0.0
+            ],
+            "craterName": "OZ_Crate_LightBlue",
+            "openDelay": 10.0,
+            "closeDelay": 10.0,
+            "CrateMaxLoot": 10,
+            "MinWeaponCount": 1,
+            "MinAmmoCount": 2,
+            "MinClothCount": 1,
+            "crateLoot": [
+                {
+                    "Name": "M4A1",
+                    "Chance": 100.0,
+                    "Min": 1,
+                    "Max": 1,
+                    "RandomizeQuantity": 1,
+                    "ChanceOnQuantity": 1,
+                    "Attachments": [
+                        "M4_CQBBttstck",
+                        "M4_MPHndgrd",
+                        "Mag_STANAG_30Rnd",
+                        "ACOGOptic_6x"
+                    ],
+                    "Linked": []
+                },
+                {
+                    "Name": "M4A1",
+                    "Chance": 100.0,
+                    "Min": 1,
+                    "Max": 1,
+                    "RandomizeQuantity": 1,
+                    "ChanceOnQuantity": 1,
+                    "Attachments": [
+                        "M4_CQBBttstck",
+                        "M4_MPHndgrd",
+                        "Mag_STANAG_30Rnd",
+                        "ACOGOptic_6x"
+                    ],
+                    "Linked": []
+                }
+            ]
+        }
+    ]
+}

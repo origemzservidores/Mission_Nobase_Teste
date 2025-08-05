@@ -1,0 +1,32 @@
+{
+    "ItemNameColors": {
+        "e6a800": [
+            "SodaCan_Pipsi",
+            "Apple"
+        ],
+        "c800e6": [
+            "SodaCan_Cola",
+            "Plum"
+        ],
+        "ffd700": [
+            "SodaCan_Sprit",
+            "Pear"
+        ],
+        "139e00": [
+            "SodaCan_Kvass",
+            "Banana"
+        ],
+        "e67200": [
+            "SodaCan_Fronta",
+            "Orange"
+        ],
+        "00c9c7": [
+            "TunaCan",
+            "Tomato"
+        ],
+        "e60000": [
+            "DogFoodCan",
+            "Pumpkin"
+        ]
+    }
+}

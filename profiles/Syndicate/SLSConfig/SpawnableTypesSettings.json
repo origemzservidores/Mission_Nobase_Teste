@@ -1,0 +1,71 @@
+{
+    "IsGlobalLootSystemWorking": 1,
+    "Types": [
+        {
+            "type": "SeaChest",
+            "removalTime": 600.0,
+            "randomsPresets": [
+                {
+                    "chance": 1.0,
+                    "randomPresetName": "Foodspawn",
+                    "minItems": 1,
+                    "maxItems": 3
+                }
+            ]
+        },
+        {
+            "type": "SLS_Crate_square",
+            "removalTime": 600.0,
+            "randomsPresets": [
+                {
+                    "chance": 0.550000011920929,
+                    "randomPresetName": "Foodspawn",
+                    "minItems": 1,
+                    "maxItems": 3
+                }
+            ]
+        },
+        {
+            "type": "SLS_Crate_small",
+            "removalTime": 600.0,
+            "randomsPresets": [
+                {
+                    "chance": 0.4000000059604645,
+                    "randomPresetName": "MiscCommon",
+                    "minItems": 1,
+                    "maxItems": 3
+                },
+                {
+                    "chance": 0.3499999940395355,
+                    "randomPresetName": "Foodspawn",
+                    "minItems": 1,
+                    "maxItems": 3
+                }
+            ]
+        },
+        {
+            "type": "SLS_Crate_long",
+            "removalTime": 600.0,
+            "randomsPresets": [
+                {
+                    "chance": 0.3499999940395355,
+                    "randomPresetName": "MiscCommon",
+                    "minItems": 1,
+                    "maxItems": 3
+                },
+                {
+                    "chance": 0.4000000059604645,
+                    "randomPresetName": "Medical",
+                    "minItems": 1,
+                    "maxItems": 3
+                },
+                {
+                    "chance": 0.25,
+                    "randomPresetName": "Foodspawn",
+                    "minItems": 1,
+                    "maxItems": 3
+                }
+            ]
+        }
+    ]
+}

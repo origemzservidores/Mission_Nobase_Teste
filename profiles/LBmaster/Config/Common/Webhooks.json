@@ -1,0 +1,40 @@
+{
+    "version": 3,
+    "webhooks": [
+        {
+            "enabled": 0,
+            "description": "Test Webhook for demonstration",
+            "webhookURL": "https://discord.com/api/webhooks/....",
+            "webhookMessages": [
+                "GroupCreate",
+                "GroupDelete",
+                "GroupChat",
+                "GlobalChat",
+                "DirectChat",
+                "ATMRobbingSuccess"
+            ],
+            "steamidFilter": [],
+            "overwrittenMessages": {}
+        },
+        {
+            "enabled": 0,
+            "description": "Admin Webhook for demonstration",
+            "webhookURL": "https://discord.com/api/webhooks/....",
+            "webhookMessages": [
+                "GroupCreate",
+                "GroupDelete",
+                "GroupChat",
+                "GlobalChat",
+                "DirectChat",
+                "ATMRobbingSuccess"
+            ],
+            "steamidFilter": [],
+            "overwrittenMessages": {
+                "ATMRobbingSuccess": {
+                    "message": "{}"
+                }
+            }
+        }
+    ],
+    "webhookMessages": {}
+}
