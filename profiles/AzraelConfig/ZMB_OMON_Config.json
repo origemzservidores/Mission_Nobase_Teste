@@ -4,7 +4,7 @@
     "AUTHOR": "Al-Azrael",
     "DISCORD": "Discord: https://discord.gg/nTdfMS6bJF",
     "SECTION1": "====== 1. Main Settings ======",
-    "cfg_ExplosiveGrenades": 1,
+    "cfg_ExplosiveGrenades": 0,
     "cfg_ChanceOfUseFrag": 0.5,
     "cfg_GrenName": "FlashGrenade",
     "cfg_GrenNameRage": "RGD5Grenade",
@@ -18,7 +18,7 @@
     "cfg_ThrowCheckTimeMax": 15,
     "cfg_VisorGlassHp": 200,
     "cfg_OmonRageDmgEnable": 1,
-    "cfg_OmonRageDmgModif": 0.20000000298023225,
+    "cfg_OmonRageDmgModif": 3,
     "SECTION3": "====== 2. Loot Settings ======",
     "m_ZmbomonLoot": [
         {
