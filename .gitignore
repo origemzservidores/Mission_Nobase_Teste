@@ -12,7 +12,6 @@
 *.ADM
 *.mdmp
 *.cfg
-*.xml
 dayz.gproj
 buildid
 omega.cfg

@@ -1,0 +1,426 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<spawnabletypes>
+  <type name="IMP_STM9">
+    <attachments chance="1">
+      <item name="M4_OEBttstck" chance="1" />
+    </attachments>
+    <attachments chance="1">
+      <item name="IMP_Mag_Glock_21Rnd" chance="0.80" />
+      <item name="IMP_Mag_Glock_30Rnd" chance="0.60" />
+      <item name="IMP_Drum_Glock_50Rnd" chance="0.30" />
+    </attachments>
+  </type>
+  <type name="IMP_VR80">
+    <attachments chance="1">
+      <item name="IMP_Mag_VR80_5Rnd" chance="0.90" />
+      <item name="IMP_Mag_VR80_10Rnd" chance="0.70" />
+      <item name="IMP_Mag_VR80_Tape_20Rnd" chance="0.40" />
+    </attachments>
+  </type>
+  <type name="IMP_MP443">
+    <attachments chance="1">
+      <item name="IMP_Mag_MP443_18Rnd" chance="0.90" />
+    </attachments>
+  </type>
+  <type name="IMP_Vector">
+    <attachments chance="1">
+      <item name="IMP_Mag_Vector_35Rnd" chance="0.80" />
+    </attachments>
+    <attachments chance="1">
+      <item name="IMP_Supp_Vector_Black" chance="0.40" />
+    </attachments>
+  </type>
+  <type name="IMP_VEPR12">
+    <attachments chance="1">
+      <item name="IMP_Bttstk_AK_VEPR" chance="1" />
+    </attachments>
+    <attachments chance="1">
+      <item name="IMP_Mag_VEPR12_20Rnd" chance="0.80" />
+    </attachments>
+  </type>
+  <type name="IMP_K98">
+    <attachments chance="1">
+      <item name="PUScopeOptic" chance="0.60" />
+    </attachments>
+  </type>
+  <type name="IMP_Origin12">
+    <attachments chance="1">
+      <item name="M4_OEBttstck" chance="1" />
+    </attachments>
+    <attachments chance="1">
+      <item name="IMP_Origin12_Drum_30Rnd" chance="0.40" />
+      <item name="IMP_Origin12_Mag_15Rnd" chance="0.80" />
+    </attachments>
+    <attachments chance="1">
+      <item name="IMP_Supp_Origin12" chance="0.40" />
+    </attachments>
+  </type>
+  <type name="IMP_HoneyBadger">
+    <attachments chance="1">
+      <item name="IMP_Mag_HB_30Rnd" chance="1.00" />
+    </attachments>
+    <attachments chance="1">
+      <item name="AD_XPS34" chance="0.50" />
+    </attachments>
+  </type>
+  <type name="IMP_AEK">
+    <attachments chance="1">
+      <item name="IMP_Bttstk_AK_AEK" chance="1.00" />
+    </attachments>
+    <attachments chance="1">
+      <item name="Mag_AK74_30Rnd" chance="0.80" />
+    </attachments>
+  </type>
+  <type name="IMP_AKM">
+    <attachments chance="1.00">
+      <item name="IMP_ReceiverCover_AK_Izhmash" chance="1.00" />
+    </attachments>
+    <attachments chance="0.45">
+      <item name="Mag_AKM_30Rnd" chance="0.70" />
+      <item name="Mag_AKM_Drum75Rnd" chance="0.20" />
+      <item name="IMP_Mag_AKM_Magpul_Banana" chance="0.50" />
+      <item name="IMP_Mag_AKM_Magpul_Black_Tape_60Rnd" chance="0.40" />
+    </attachments>
+    <attachments chance="1">
+      <item name="AK_WoodBttstck" chance="1" />
+    </attachments>
+    <attachments chance="1">
+      <item name="IMP_Hndgrd_AK_AKWood" chance="1" />
+    </attachments>
+  </type>
+  <type name="IMP_AR15">
+    <attachments chance="1">
+      <item name="M4_PlasticHndgrd" chance="1" />
+    </attachments>
+    <attachments chance="1">
+      <item name="Mag_STANAG_30Rnd" chance="0.80" />
+      <item name="Mag_STANAG_60Rnd" chance="0.40" />
+    </attachments>
+    <attachments chance="1">
+      <item name="M4_OEBttstck" chance="1" />
+    </attachments>
+  </type>
+  <type name="IMP_AUGA3">
+    <attachments chance="1">
+      <item name="Mag_STANAG_30Rnd" chance="0.80" />
+    </attachments>
+  </type>
+  <type name="IMP_DDMV4">
+    <attachments chance="1">
+      <item name="M4_OEBttstck" chance="1.00" />
+    </attachments>
+    <attachments chance="1">
+      <item name="Mag_STANAG_30Rnd" chance="0.70" />
+      <item name="Mag_STANAG_60Rnd" chance="0.40" />
+    </attachments>
+  </type>
+  <type name="IMP_HK416">
+    <attachments chance="1">
+      <item name="M4_OEBttstck" chance="1" />
+    </attachments>
+    <attachments chance="0.35">
+      <item name="Mag_STANAG_30Rnd" chance="0.70" />
+    </attachments>
+  </type>
+  <type name="IMP_SV98">
+    <attachments chance="1">
+      <item name="IMP_Mag_SV98_5Rnd" chance="0.70" />
+    </attachments>
+    <attachments chance="1">
+      <item name="HuntingOptic" chance="0.80" />
+    </attachments>
+  </type>
+  <type name="IMP_G28_Tan">
+    <attachments chance="0.35">
+      <item name="IMP_Mag_G28_20Rnd" chance="0.80" />
+    </attachments>
+  </type>
+  <type name="IMP_HKMR308_Black">
+    <attachments chance="1">
+      <item name="IMP_Mag_HKMR308_20Rnd" chance="0.60" />
+      <item name="IMP_Mag_HKMR308_Clip_40Rnd" chance="0.20" />
+    </attachments>
+    <attachments chance="1">
+      <item name="M4_OEBttstck" chance="1" />
+    </attachments>
+  </type>
+  <type name="IMP_MK47">
+    <attachments chance="1">
+      <item name="M4_OEBttstck" chance="1" />
+    </attachments>
+    <attachments chance="1">
+      <item name="Mag_AKM_30Rnd" chance="0.80" />
+      <item name="Mag_AKM_Drum75Rnd" chance="0.30" />
+    </attachments>
+  </type>
+  <type name="IMP_SR25">
+    <attachments chance="1">
+      <item name="M4_OEBttstck" chance="1.00" />
+    </attachments>
+    <attachments chance="1">
+      <item name="IMP_Mag_SR25_10Rnd" chance="0.70" />
+      <item name="IMP_Mag_SR25_20Rnd" chance="0.50" />
+      <item name="IMP_Mag_SR25_Clip_40Rnd" chance="0.20" />
+    </attachments>
+  </type>
+  <type name="IMP_RSASS">
+    <attachments chance="1">
+      <item name="M4_OEBttstck" chance="1.00" />
+    </attachments>
+    <attachments chance="1">
+      <item name="IMP_Mag_RSASS_20Rnd" chance="0.60" />
+      <item name="IMP_Mag_RSASS_Clip_40Rnd" chance="0.20" />
+    </attachments>
+  </type>
+  <type name="IMP_VSS_Tact">
+    <attachments chance="1">
+      <item name="Mag_VSS_10Rnd" chance="0.80" />
+      <item name="IMP_Mag_VSS_30Rnd" chance="0.50" />
+      <item name="IMP_Mag_VSS_CoupledClip_20Rnd" chance="0.20" />
+    </attachments>
+  </type>
+  <type name="IMP_SVDRaptor">
+    <attachments chance="1">
+      <item name="M4_OEBttstck" chance="1" />
+    </attachments>
+    <attachments chance="1">
+      <item name="Mag_SVD_10Rnd" chance="0.40" />
+    </attachments>
+  </type>
+  <type name="IMP_FAL">
+    <attachments chance="1">
+      <item name="IMP_Bttstk_Fal_HumpBack" chance="1" />
+    </attachments>
+    <attachments chance="1">
+      <item name="Mag_FAL_20Rnd" chance="0.40" />
+    </attachments>
+    <attachments chance="1">
+      <item name="IMP_Hndgrd_FnFal_OriginalStampedHndgrd" chance="1" />
+    </attachments>
+  </type>
+  <type name="IMP_PKM">
+    <attachments chance="1">
+      <item name="IMP_Mag_PKM_150Rnd" chance="0.80" />
+    </attachments>
+  </type>
+  <type name="IMP_M240_Donate">
+    <attachments chance="1">
+      <item name="IMP_Mag_M240_150Rnd" chance="0.80" />
+    </attachments>
+  </type>
+  <type name="IMP_PKP_Donate">
+    <attachments chance="1">
+      <item name="IMP_Mag_PKP_200Rnd" chance="0.80" />
+    </attachments>
+  </type>
+  <type name="IMP_AWM">
+    <attachments chance="0.50">
+      <item name="IMP_Mag_AWM_5Rnd" chance="1.00" />
+    </attachments>
+  </type>
+  <type name="IMP_MK18" />
+  <type name="IMP_STM9">
+    <attachments chance="1">
+      <item name="M4_OEBttstck" chance="1.00" />
+    </attachments>
+    <attachments chance="1">
+      <item name="Mag_Glock_15Rnd" chance="0.90" />
+      <item name="IMP_Drum_Glock_50Rnd" chance="0.30" />
+      <item name="IMP_Mag_Glock_21Rnd" chance="0.70" />
+    </attachments>
+  </type>
+  <type name="IMP_AK74">
+    <attachments chance="1.00">
+      <item name="IMP_Hndgrd_AK_AKWood" chance="1.00" />
+    </attachments>
+    <attachments chance="1.00">
+      <item name="AK_WoodBttstck" chance="1.00" />
+    </attachments>
+    <attachments chance="0.40">
+      <item name="Mag_AK74_30Rnd" chance="1.00" />
+    </attachments>
+  </type>
+  <type name="IMP_RPK16_Black">
+    <attachments chance="1.00">
+      <item name="AK_WoodBttstck" chance="1.00" />
+    </attachments>
+    <attachments chance="1.00">
+      <item name="Mag_AK74_30Rnd" chance="1.00" />
+    </attachments>
+  </type>
+  <type name="IMP_RPK16_Tan">
+    <attachments chance="1.00">
+      <item name="AK_WoodBttstck" chance="1.00" />
+    </attachments>
+    <attachments chance="1.00">
+      <item name="Mag_AK74_30Rnd" chance="1.00" />
+    </attachments>
+  </type>
+  <type name="IMP_RPK16_Green">
+    <attachments chance="1.00">
+      <item name="AK_WoodBttstck" chance="1.00" />
+    </attachments>
+    <attachments chance="1.00">
+      <item name="Mag_AK74_30Rnd" chance="1.00" />
+    </attachments>
+  </type>
+  <type name="IMP_AK12">
+    <attachments chance="1">
+      <item name="AK_WoodBttstck" chance="1" />
+    </attachments>
+    <attachments chance="0.50">
+      <item name="IMP_Mag_AK12_30Rnd" chance="1" />
+    </attachments>
+  </type>
+  <type name="IMP_AKAlfa">
+    <attachments chance="1">
+      <item name="IMP_Mag_AKAlfa_30Rnd" chance="1" />
+    </attachments>
+  </type>
+  <type name="IMP_M24_SWS">
+    <attachments chance="1">
+      <item name="VTR_accupoint_Trijicon" chance="1" />
+    </attachments>
+    <attachments chance="1">
+      <item name="IMP_Mag_M24_5Rnd" chance="1" />
+    </attachments>
+  </type>
+  <type name="IMP_McMillan_CS5">
+    <attachments chance="1">
+      <item name="IMP_Optic_NCStar" chance="1" />
+    </attachments>
+    <attachments chance="1">
+      <item name="IMP_Mag_McMillan_CS5_10Rnd" chance="1" />
+    </attachments>
+  </type>
+  <type name="IMP_ACR_Black">
+    <attachments chance="1">
+      <item name="Mag_STANAG_60Rnd" chance="1" />
+    </attachments>
+    <attachments chance="1">
+      <item name="M4_Suppressor" chance="0.80" />
+    </attachments>
+    <attachments chance="1">
+      <item name="AD_XPS34" chance="0.90" />
+    </attachments>
+  </type>
+  <type name="IMP_AN94">
+    <attachments chance="1">
+      <item name="IMP_Bttstk_AK_ZenitPT3" chance="1" />
+    </attachments>
+    <attachments chance="1">
+      <item name="Mag_AK74_30Rnd" chance="1" />
+    </attachments>
+    <attachments chance="1">
+      <item name="AK_Suppressor" chance="0.70" />
+    </attachments>
+    <attachments chance="1">
+      <item name="AD_RMR_LM_B13" chance="0.90" />
+    </attachments>
+  </type>
+  <type name="IMP_AWM_Black">
+    <attachments chance="1">
+      <item name="VTR_PenTax" chance="0.70" />
+    </attachments>
+    <attachments chance="1">
+      <item name="IMP_Mag_AWM_5Rnd" chance="1.00" />
+    </attachments>
+  </type>
+  <type name="IMP_AXMC">
+    <attachments chance="1">
+      <item name="VTR_accupoint_Trijicon" chance="0.90" />
+    </attachments>
+    <attachments chance="1">
+      <item name="IMP_Mag_AXMC_10Rnd" chance="1" />
+    </attachments>
+  </type>
+  <type name="IMP_DVL10M2_Urbana">
+    <attachments chance="1">
+      <item name="HuntingOptic" chance="0.80" />
+    </attachments>
+    <attachments chance="1">
+      <item name="IMP_Mag_DVL10M2_10Rnd" chance="1.00" />
+    </attachments>
+  </type>
+  <type name="IMP_DVL10M2_Urbana_Green">
+    <attachments chance="1">
+      <item name="HuntingOptic" chance="0.80" />
+    </attachments>
+    <attachments chance="1">
+      <item name="IMP_Mag_DVL10M2_10Rnd" chance="1.00" />
+    </attachments>
+  </type>
+  <type name="IMP_M39EMR">
+    <attachments chance="1">
+      <item name="VTR_bravo4" chance="1" />
+    </attachments>
+    <attachments chance="1">
+      <item name="IMP_Mag_M39EMR_20Rnd" chance="1.00" />
+    </attachments>
+    <attachments chance="1">
+      <item name="IMP_Supp_308_Black" chance="0.60" />
+    </attachments>
+  </type>
+  <type name="IMP_MAR10">
+    <attachments chance="1">
+      <item name="VTR_Vudu" chance="0.90" />
+    </attachments>
+    <attachments chance="1">
+      <item name="IMP_Mag_MAR10_10rnd" chance="1" />
+    </attachments>
+    <attachments chance="1">
+      <item name="IMP_Bttstk_AR_Ar15StrikeIndustriesViper" chance="1" />
+    </attachments>
+  </type>
+  <type name="IMP_McMillan_A5">
+    <attachments chance="1">
+      <item name="IMP_Mag_R700_5Rnd" chance="0.95" />
+    </attachments>
+    <attachments chance="1">
+      <item name="HuntingOptic" chance="1" />
+    </attachments>
+  </type>
+  <type name="IMP_PKP_Tactical">
+    <attachments chance="1">
+      <item name="IMP_Mag_PKP_200Rnd" chance="0.70" />
+    </attachments>
+  </type>
+  <type name="IMP_SCARL">
+    <attachments chance="1">
+      <item name="IMP_Mag_M4_Cmag_100Rnd" chance="0.95" />
+    </attachments>
+    <attachments chance="1">
+      <item name="IMP_Grip_ZenitRK5" chance="0.80" />
+    </attachments>
+    <attachments chance="1">
+      <item name="M4_Suppressor" chance="1" />
+    </attachments>
+    <attachments chance="1">
+      <item name="VTR_okp7_rail" chance="1" />
+    </attachments>
+  </type>
+  <type name="IMP_VSSK">
+    <attachments chance="1">
+      <item name="IMP_Supp_VSSK" chance="1.00" />
+    </attachments>
+    <attachments chance="1">
+      <item name="IMP_Mag_VSSK_5Rnd" chance="1" />
+    </attachments>
+    <attachments chance="1">
+      <item name="VTR_bravo4" chance="0.90" />
+    </attachments>
+  </type>
+  <type name="IMP_W_SVLK14SSumrak">
+    <attachments chance="1">
+      <item name="VTR_PenTax" chance="1" />
+    </attachments>
+  </type>
+  <type name="IMP_W_TSVL8M4Antimaterial">
+    <attachments chance="1">
+      <item name="IMP_Mag_TSVL8M1Stalingrad_10Rnd" chance="1.00" />
+    </attachments>
+    <attachments chance="1">
+      <item name="HuntingOptic" chance="0.70" />
+    </attachments>
+  </type>
+</spawnabletypes>
