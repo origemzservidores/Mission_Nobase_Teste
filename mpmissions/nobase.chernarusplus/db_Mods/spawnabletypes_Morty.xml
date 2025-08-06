@@ -536,10 +536,10 @@
 	</type>
 	<!-- Update 1.13 -->
 	<type name="TTC_M24_NEW_Wood">
-		<attachments chance="1.00">
+		<attachments chance="0.50">
 			<item name="HuntingOptic" chance="1.00" />
 		</attachments>
-		<attachments chance="0.30">
+		<attachments chance="0.50">
 			<item name="TTC_M24New_mag_5rnd" chance="1.00" />
 		</attachments>
 	</type>
