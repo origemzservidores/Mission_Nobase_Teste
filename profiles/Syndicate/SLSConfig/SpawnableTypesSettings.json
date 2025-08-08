@@ -2,68 +2,230 @@
     "IsGlobalLootSystemWorking": 1,
     "Types": [
         {
-            "type": "SeaChest",
-            "removalTime": 600.0,
+            "type": "ORZ_Dufflebag_red",
+            "removalTime": 60.0,
             "randomsPresets": [
                 {
                     "chance": 1.0,
-                    "randomPresetName": "Foodspawn",
+                    "randomPresetName": "Comida",
+                    "minItems": 1,
+                    "maxItems": 1
+                },
+                {
+                    "chance": 0.50,
+                    "randomPresetName": "Reparo",
+                    "minItems": 1,
+                    "maxItems": 1
+                },
+                {
+                    "chance": 1.0,
+                    "randomPresetName": "Municao",
+                    "minItems": 1,
+                    "maxItems": 1
+                },
+                {
+                    "chance": 0.50,
+                    "randomPresetName": "Pistolas",
+                    "minItems": 1,
+                    "maxItems": 1
+                },
+                {
+                    "chance": 0.50,
+                    "randomPresetName": "Magazine",
+                    "minItems": 1,
+                    "maxItems": 1
+                }
+            ]
+        },
+        {
+            "type": "ORZ_fridge",
+            "removalTime": 60.0,
+            "randomsPresets": [
+                {
+                    "chance": 1.0,
+                    "randomPresetName": "Comida",
+                    "minItems": 2,
+                    "maxItems": 4
+                }
+            ]
+        },
+        {
+            "type": "ORZ_Crate_mil_SMALL1",
+            "removalTime": 60.0,
+            "randomsPresets": [
+                {
+                    "chance": 1.0,
+                    "randomPresetName": "Municao",
+                    "minItems": 2,
+                    "maxItems": 3
+                }
+            ]
+        },
+        {
+            "type": "ORZ_eft_corpse_5",
+            "removalTime": 60.0,
+            "randomsPresets": [
+                {
+                    "chance": 1.0,
+                    "randomPresetName": "Municao",
+                    "minItems": 1,
+                    "maxItems": 2
+                },
+                {
+                    "chance": 1.0,
+                    "randomPresetName": "Magazine",
+                    "minItems": 1,
+                    "maxItems": 2
+                },
+                {
+                    "chance": 1.0,
+                    "randomPresetName": "Capacetes",
+                    "minItems": 1,
+                    "maxItems": 1
+                }
+            ]
+        },
+        {
+            "type": "ORZ_Medical_case",
+            "removalTime": 60.0,
+            "randomsPresets": [
+                {
+                    "chance": 1.0,
+                    "randomPresetName": "Medicina",
                     "minItems": 1,
                     "maxItems": 3
                 }
             ]
         },
         {
-            "type": "SLS_Crate_square",
-            "removalTime": 600.0,
+            "type": "ORZ_toolbox_red",
+            "removalTime": 60.0,
             "randomsPresets": [
                 {
-                    "chance": 0.550000011920929,
-                    "randomPresetName": "Foodspawn",
+                    "chance": 1.0,
+                    "randomPresetName": "Reparo",
                     "minItems": 1,
                     "maxItems": 3
                 }
             ]
         },
         {
-            "type": "SLS_Crate_small",
-            "removalTime": 600.0,
+            "type": "ORZ_crate_mil_1",
+            "removalTime": 60.0,
             "randomsPresets": [
                 {
-                    "chance": 0.4000000059604645,
-                    "randomPresetName": "MiscCommon",
+                    "chance": 1.0,
+                    "randomPresetName": "Coletes",
                     "minItems": 1,
-                    "maxItems": 3
+                    "maxItems": 1
                 },
                 {
-                    "chance": 0.3499999940395355,
-                    "randomPresetName": "Foodspawn",
+                    "chance": 0.50,
+                    "randomPresetName": "Capacetes",
                     "minItems": 1,
-                    "maxItems": 3
+                    "maxItems": 1
+                },
+                {
+                    "chance": 1.0,
+                    "randomPresetName": "Municao",
+                    "minItems": 1,
+                    "maxItems": 2
+                },
+                {
+                    "chance": 1.0,
+                    "randomPresetName": "Magazine",
+                    "minItems": 1,
+                    "maxItems": 2
+                },
+                {
+                    "chance": 0.70,
+                    "randomPresetName": "Rifles",
+                    "minItems": 1,
+                    "maxItems": 1
+                },
+                {
+                    "chance": 1.0,
+                    "randomPresetName": "Pistolas",
+                    "minItems": 1,
+                    "maxItems": 1
                 }
             ]
         },
         {
-            "type": "SLS_Crate_long",
-            "removalTime": 600.0,
+            "type": "ORZ_eft_corpse_12",
+            "removalTime": 60.0,
             "randomsPresets": [
                 {
-                    "chance": 0.3499999940395355,
-                    "randomPresetName": "MiscCommon",
+                    "chance": 1.0,
+                    "randomPresetName": "Municao",
                     "minItems": 1,
-                    "maxItems": 3
+                    "maxItems": 2
                 },
                 {
-                    "chance": 0.4000000059604645,
-                    "randomPresetName": "Medical",
+                    "chance": 1.0,
+                    "randomPresetName": "Magazine",
                     "minItems": 1,
-                    "maxItems": 3
+                    "maxItems": 2
                 },
                 {
-                    "chance": 0.25,
-                    "randomPresetName": "Foodspawn",
+                    "chance": 1.0,
+                    "randomPresetName": "Capacetes",
                     "minItems": 1,
-                    "maxItems": 3
+                    "maxItems": 1
+                }
+            ]
+        },
+        {
+            "type": "ORZ_locker_closed_blue",
+            "removalTime": 60.0,
+            "randomsPresets": [
+                {
+                    "chance": 1.0,
+                    "randomPresetName": "Rifles",
+                    "minItems": 1,
+                    "maxItems": 1
+                },
+                {
+                    "chance": 1.0,
+                    "randomPresetName": "Pistolas",
+                    "minItems": 1,
+                    "maxItems": 1
+                }
+            ]
+        },
+        {
+            "type": "ORZ_eft_corpse_4",
+            "removalTime": 60.0,
+            "randomsPresets": [
+                {
+                    "chance": 1.0,
+                    "randomPresetName": "Municao",
+                    "minItems": 1,
+                    "maxItems": 2
+                },
+                {
+                    "chance": 1.0,
+                    "randomPresetName": "Magazine",
+                    "minItems": 1,
+                    "maxItems": 2
+                },
+                {
+                    "chance": 1.0,
+                    "randomPresetName": "Rifles",
+                    "minItems": 1,
+                    "maxItems": 1
+                }
+            ]
+        },
+        {
+            "type": "ORZ_Safelocker",
+            "removalTime": 60.0,
+            "randomsPresets": [
+                {
+                    "chance": 1.0,
+                    "randomPresetName": "Vultar",
+                    "minItems": 1,
+                    "maxItems": 1
                 }
             ]
         }
