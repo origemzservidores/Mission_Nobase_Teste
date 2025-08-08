@@ -30,10 +30,10 @@
                     "maxItems": 1
                 },
                 {
-                    "chance": 0.50,
+                    "chance": 1.0,
                     "randomPresetName": "Magazine",
                     "minItems": 1,
-                    "maxItems": 1
+                    "maxItems": 2
                 }
             ]
         },

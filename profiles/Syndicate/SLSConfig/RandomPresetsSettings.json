@@ -697,7 +697,10 @@
                     "minItems": 1,
                     "maxItems": 1,
                     "quantity": 0,
-                    "attachments": []
+                    "attachments": [
+                    "Mag_Deagle_9rnd",
+                    "PistolSuppressor"
+                    ]
                 },
                 {
                     "itemName": "Deagle_Gold",
@@ -705,7 +708,10 @@
                     "minItems": 1,
                     "maxItems": 1,
                     "quantity": 0,
-                    "attachments": []
+                    "attachments": [
+                    "Mag_Deagle_9rnd",
+                    "PistolSuppressor"
+                    ]
                 },
                 {
                     "itemName": "Glock19",
@@ -713,7 +719,10 @@
                     "minItems": 1,
                     "maxItems": 1,
                     "quantity": 0,
-                    "attachments": []
+                    "attachments": [
+                    "Mag_Glock_15Rnd",
+                    "PistolSuppressor"
+                    ]
                 }
             ]
         },
@@ -726,7 +735,9 @@
                     "minItems": 1,
                     "maxItems": 1,
                     "quantity": 0,
-                    "attachments": []
+                    "attachments": [
+                    "Mag_Aug_30Rnd"
+                    ]
                 },
                 {
                     "itemName": "M4A1",
@@ -734,7 +745,11 @@
                     "minItems": 1,
                     "maxItems": 1,
                     "quantity": 0,
-                    "attachments": []
+                    "attachments": [
+                    "Mag_STANAG_30Rnd",
+                    "ReflexOptic",
+                    "Battery9V"
+                    ]
                 },
                 {
                     "itemName": "FAL",
@@ -742,7 +757,10 @@
                     "minItems": 1,
                     "maxItems": 1,
                     "quantity": 0,
-                    "attachments": []
+                    "attachments": [
+                    "Fal_FoldingBttstck",
+                    "Mag_FAL_20Rnd"
+                    ]
                 },
                 {
                     "itemName": "m16a2",
@@ -750,7 +768,9 @@
                     "minItems": 1,
                     "maxItems": 1,
                     "quantity": 0,
-                    "attachments": []
+                    "attachments": [
+                    "Mag_STANAG_30Rnd"
+                    ]
                 },
                 {
                     "itemName": "ak101",
@@ -758,7 +778,10 @@
                     "minItems": 1,
                     "maxItems": 1,
                     "quantity": 0,
-                    "attachments": []
+                    "attachments": [
+                    "Mag_AK101_30Rnd",
+                    "KashtanOptic"
+                    ]
                 },
                 {
                     "itemName": "ASVAL",
@@ -766,7 +789,11 @@
                     "minItems": 1,
                     "maxItems": 1,
                     "quantity": 0,
-                    "attachments": []
+                    "attachments": [
+                    "Mag_VAL_20Rnd",
+                    "ReflexOptic",
+                    "Battery9V"
+                    ]
                 },
                 {
                     "itemName": "FAMAS",
@@ -774,7 +801,9 @@
                     "minItems": 1,
                     "maxItems": 1,
                     "quantity": 0,
-                    "attachments": []
+                    "attachments": [
+                    "Mag_FAMAS_25Rnd"
+                    ]
                 },
                 {
                     "itemName": "SV98",
@@ -782,7 +811,10 @@
                     "minItems": 1,
                     "maxItems": 1,
                     "quantity": 0,
-                    "attachments": []
+                    "attachments": [
+                    "Mag_SV98_10Rnd",
+                    "ACOGOptic"
+                    ]
                 }
             ]
         },
