@@ -2,13 +2,13 @@
     "loglevel": 0,
     "BubakLocations": [
         {
-            "forceclear": 1,
+            "forceclear": 0,
             "name": "BUNKER 1",
-            "workinghours": "",
+            "workinghours": "0-24",
             "triggerdependency": [
                 ""
             ],
-            "triggerpos": "8608.869141 164.879898 13636.819336", 
+            "triggerpos": "8608.869141 164.879898 13636.819336",
             "triggermins": "",
             "triggermaxs": "",
             "triggerradius": 0.0,
@@ -72,9 +72,9 @@
             ]
         },
         {
-            "forceclear": 1,
+            "forceclear": 0,
             "name": "BUNKER 2",
-            "workinghours": "",
+            "workinghours": "0-24",
             "triggerdependency": [
                 ""
             ],
@@ -137,9 +137,9 @@
             ]
         },
         {
-            "forceclear": 1,
+            "forceclear": 0,
             "name": "BUNKER 3",
-            "workinghours": "",
+            "workinghours": "0-24",
             "triggerdependency": [
                 ""
             ],
@@ -202,9 +202,9 @@
             ]
         },
         {
-            "forceclear": 1,
+            "forceclear": 0,
             "name": "BUNKER 4",
-            "workinghours": "",
+            "workinghours": "0-24",
             "triggerdependency": [
                 ""
             ],
@@ -270,9 +270,9 @@
             ]
         },
         {
-            "forceclear": 1,
+            "forceclear": 0,
             "name": "BUNKER 5",
-            "workinghours": "",
+            "workinghours": "0-24",
             "triggerdependency": [
                 ""
             ],
