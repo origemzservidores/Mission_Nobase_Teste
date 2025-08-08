@@ -1,90 +1,884 @@
 {
     "RPresets": [
         {
-            "randomPresetName": "Foodspawn",
+            "randomPresetName": "Comida",
             "globalLootItems": [
                 {
-                    "itemName": "Apple",
-                    "chance": 0.5299999713897705,
+                    "itemName": "Canteen",
+                    "chance": 0.8,
                     "minItems": 1,
                     "maxItems": 1,
-                    "quantity": -2,
+                    "quantity": 0,
                     "attachments": []
                 },
                 {
-                    "itemName": "Pear",
-                    "chance": 0.5299999713897705,
+                    "itemName": "SodaCan_Cola",
+                    "chance": 0.8,
                     "minItems": 1,
                     "maxItems": 1,
-                    "quantity": -2,
+                    "quantity": 0,
                     "attachments": []
                 },
                 {
-                    "itemName": "Plum",
-                    "chance": 0.5299999713897705,
+                    "itemName": "SodaCan_Fronta",
+                    "chance": 0.8,
                     "minItems": 1,
                     "maxItems": 1,
-                    "quantity": -2,
+                    "quantity": 0,
+                    "attachments": []
+                },
+                {
+                    "itemName": "SodaCan_Kvass",
+                    "chance": 0.8,
+                    "minItems": 1,
+                    "maxItems": 1,
+                    "quantity": 0,
+                    "attachments": []
+                },
+                {
+                    "itemName": "SodaCan_Pipsi",
+                    "chance": 0.8,
+                    "minItems": 1,
+                    "maxItems": 1,
+                    "quantity": 0,
+                    "attachments": []
+                },
+                {
+                    "itemName": "SodaCan_Spite",
+                    "chance": 0.8,
+                    "minItems": 1,
+                    "maxItems": 1,
+                    "quantity": 0,
+                    "attachments": []
+                },
+                {
+                    "itemName": "GlassBottle",
+                    "chance": 0.8,
+                    "minItems": 1,
+                    "maxItems": 1,
+                    "quantity": 0,
+                    "attachments": []
+                },
+                {
+                    "itemName": "BakedBeansCan",
+                    "chance": 0.40,
+                    "minItems": 1,
+                    "maxItems": 1,
+                    "quantity": 0,
+                    "attachments": []
+                },
+                {
+                    "itemName": "BoxCerealCrunchin",
+                    "chance": 0.3,
+                    "minItems": 1,
+                    "maxItems": 1,
+                    "quantity": 0,
+                    "attachments": []
+                },
+                {
+                    "itemName": "BrisketSpread",
+                    "chance": 0.3,
+                    "minItems": 1,
+                    "maxItems": 1,
+                    "quantity": 0,
+                    "attachments": []
+                },
+                {
+                    "itemName": "CatFoodCan",
+                    "chance": 0.8,
+                    "minItems": 1,
+                    "maxItems": 1,
+                    "quantity": 0,
+                    "attachments": []
+                },
+                {
+                    "itemName": "Chips",
+                    "chance": 0.8,
+                    "minItems": 1,
+                    "maxItems": 1,
+                    "quantity": 0,
+                    "attachments": []
+                },
+                {
+                    "itemName": "Crackers",
+                    "chance": 0.8,
+                    "minItems": 1,
+                    "maxItems": 1,
+                    "quantity": 0,
+                    "attachments": []
+                },
+                {
+                    "itemName": "DogFoodCan",
+                    "chance": 0.8,
+                    "minItems": 1,
+                    "maxItems": 1,
+                    "quantity": 0,
+                    "attachments": []
+                },
+                {
+                    "itemName": "Honey",
+                    "chance": 0.8,
+                    "minItems": 1,
+                    "maxItems": 1,
+                    "quantity": 0,
+                    "attachments": []
+                },
+                {
+                    "itemName": "Lunchmeat",
+                    "chance": 0.8,
+                    "minItems": 1,
+                    "maxItems": 1,
+                    "quantity": 0,
+                    "attachments": []
+                },
+                {
+                    "itemName": "Marmalade",
+                    "chance": 0.8,
+                    "minItems": 1,
+                    "maxItems": 1,
+                    "quantity": 0,
+                    "attachments": []
+                },
+                {
+                    "itemName": "Pajka",
+                    "chance": 0.3,
+                    "minItems": 1,
+                    "maxItems": 1,
+                    "quantity": 0,
+                    "attachments": []
+                },
+                {
+                    "itemName": "Pate",
+                    "chance": 0.3,
+                    "minItems": 1,
+                    "maxItems": 1,
+                    "quantity": 0,
+                    "attachments": []
+                },
+                {
+                    "itemName": "PeachesCan",
+                    "chance": 0.8,
+                    "minItems": 1,
+                    "maxItems": 1,
+                    "quantity": 0,
+                    "attachments": []
+                },
+                {
+                    "itemName": "PorkCan",
+                    "chance": 0.8,
+                    "minItems": 1,
+                    "maxItems": 1,
+                    "quantity": 0,
+                    "attachments": []
+                },
+                {
+                    "itemName": "PowderedMilk",
+                    "chance": 0.8,
+                    "minItems": 1,
+                    "maxItems": 1,
+                    "quantity": 0,
+                    "attachments": []
+                },
+                {
+                    "itemName": "Rice",
+                    "chance": 0.8,
+                    "minItems": 1,
+                    "maxItems": 1,
+                    "quantity": 0,
+                    "attachments": []
+                },
+                {
+                    "itemName": "SaltySticks",
+                    "chance": 0.8,
+                    "minItems": 1,
+                    "maxItems": 1,
+                    "quantity": 0,
+                    "attachments": []
+                },
+                {
+                    "itemName": "SardinesCan",
+                    "chance": 0.8,
+                    "minItems": 1,
+                    "maxItems": 1,
+                    "quantity": 0,
+                    "attachments": []
+                },
+                {
+                    "itemName": "SpaghettiCan",
+                    "chance": 0.3,
+                    "minItems": 1,
+                    "maxItems": 1,
+                    "quantity": 0,
+                    "attachments": []
+                },
+                {
+                    "itemName": "TacticalBaconCan",
+                    "chance": 0.8,
+                    "minItems": 1,
+                    "maxItems": 1,
+                    "quantity": 0,
+                    "attachments": []
+                },
+                {
+                    "itemName": "UnknownFoodCan",
+                    "chance": 0.8,
+                    "minItems": 1,
+                    "maxItems": 1,
+                    "quantity": 0,
+                    "attachments": []
+                },
+                {
+                    "itemName": "Zagorky",
+                    "chance": 0.3,
+                    "minItems": 1,
+                    "maxItems": 1,
+                    "quantity": 0,
+                    "attachments": []
+                },
+                {
+                    "itemName": "ZagorkyChocolate",
+                    "chance": 0.3,
+                    "minItems": 1,
+                    "maxItems": 1,
+                    "quantity": 0,
+                    "attachments": []
+                },
+                {
+                    "itemName": "ZagorkyPeanuts",
+                    "chance": 0.3,
+                    "minItems": 1,
+                    "maxItems": 1,
+                    "quantity": 0,
                     "attachments": []
                 }
             ]
-        },
-        {
-            "randomPresetName": "MiscCommon",
+        },        {
+            "randomPresetName": "Medicina",
             "globalLootItems": [
                 {
-                    "itemName": "AntiPestsSpray",
-                    "chance": 0.5199999809265137,
+                    "itemName": "AntiChemInjector",
+                    "chance": 0.1,
                     "minItems": 1,
                     "maxItems": 1,
-                    "quantity": -2,
+                    "quantity": 0,
                     "attachments": []
                 },
-                {
-                    "itemName": "Battery9V",
-                    "chance": 0.5199999809265137,
-                    "minItems": 1,
-                    "maxItems": 1,
-                    "quantity": -2,
-                    "attachments": []
-                },
-                {
-                    "itemName": "BatteryCharger",
-                    "chance": 0.5199999809265137,
-                    "minItems": 1,
-                    "maxItems": 1,
-                    "quantity": -2,
-                    "attachments": []
-                }
-            ]
-        },
-        {
-            "randomPresetName": "Medical",
-            "globalLootItems": [
                 {
                     "itemName": "BandageDressing",
-                    "chance": 0.5400000214576721,
+                    "chance": 0.3,
                     "minItems": 1,
                     "maxItems": 1,
-                    "quantity": -2,
+                    "quantity": 0,
                     "attachments": []
                 },
                 {
                     "itemName": "BloodBagEmpty",
-                    "chance": 0.5400000214576721,
+                    "chance": 0.3,
                     "minItems": 1,
                     "maxItems": 1,
-                    "quantity": -2,
+                    "quantity": 0,
                     "attachments": []
                 },
                 {
-                    "itemName": "BloodBagIV",
-                    "chance": 0.5400000214576721,
+                    "itemName": "BloodTestKit",
+                    "chance": 0.3,
                     "minItems": 1,
                     "maxItems": 1,
-                    "quantity": -2,
+                    "quantity": 0,
+                    "attachments": []
+                },
+                {
+                    "itemName": "CharcoalTablets",
+                    "chance": 0.3,
+                    "minItems": 1,
+                    "maxItems": 1,
+                    "quantity": 0,
+                    "attachments": []
+                },
+                {
+                    "itemName": "Epinephrine",
+                    "chance": 0.3,
+                    "minItems": 1,
+                    "maxItems": 1,
+                    "quantity": 0,
+                    "attachments": []
+                },
+                {
+                    "itemName": "Morphine",
+                    "chance": 0.3,
+                    "minItems": 1,
+                    "maxItems": 1,
+                    "quantity": 0,
+                    "attachments": []
+                },
+                {
+                    "itemName": "PainkillerTablets",
+                    "chance": 0.3,
+                    "minItems": 1,
+                    "maxItems": 1,
+                    "quantity": 0,
+                    "attachments": []
+                },
+                {
+                    "itemName": "SalineBagIV",
+                    "chance": 0.3,
+                    "minItems": 1,
+                    "maxItems": 1,
+                    "quantity": 0,
+                    "attachments": []
+                },
+                {
+                    "itemName": "TetracyclineAntibiotics",
+                    "chance": 0.3,
+                    "minItems": 1,
+                    "maxItems": 1,
+                    "quantity": 0,
+                    "attachments": []
+                },
+                {
+                    "itemName": "VitaminBottle",
+                    "chance": 0.3,
+                    "minItems": 1,
+                    "maxItems": 1,
+                    "quantity": 0,
                     "attachments": []
                 }
+            ]
+        },
+        {
+            "randomPresetName": "Reparo",
+            "globalLootItems": [
+                {
+                    "itemName": "DuctTape",
+                    "chance": 0.3,
+                    "minItems": 1,
+                    "maxItems": 1,
+                    "quantity": 0,
+                    "attachments": []
+                },
+                {
+                    "itemName": "EpoxyPutty",
+                    "chance": 0.3,
+                    "minItems": 1,
+                    "maxItems": 1,
+                    "quantity": 0,
+                    "attachments": []
+                },
+                {
+                    "itemName": "LeatherSewingKit",
+                    "chance": 0.3,
+                    "minItems": 1,
+                    "maxItems": 1,
+                    "quantity": 0,
+                    "attachments": []
+                },
+                {
+                    "itemName": "SewingKit",
+                    "chance": 0.3,
+                    "minItems": 1,
+                    "maxItems": 1,
+                    "quantity": 0,
+                    "attachments": []
+                },
+                {
+                    "itemName": "WeaponCleaningKit",
+                    "chance": 0.3,
+                    "minItems": 1,
+                    "maxItems": 1,
+                    "quantity": 0,
+                    "attachments": []
+                },
+                {
+                    "itemName": "Whetstone",
+                    "chance": 0.3,
+                    "minItems": 1,
+                    "maxItems": 1,
+                    "quantity": 0,
+                    "attachments": []
+                },
+                {
+                    "itemName": "Battery9V",
+                    "chance": 0.3,
+                    "minItems": 1,
+                    "maxItems": 1,
+                    "quantity": 0,
+                    "attachments": []
+                },
+                {
+                    "itemName": "Hatchet",
+                    "chance": 0.3,
+                    "minItems": 1,
+                    "maxItems": 1,
+                    "quantity": 0,
+                    "attachments": []
+                },
+                {
+                    "itemName": "Lockpick",
+                    "chance": 0.3,
+                    "minItems": 1,
+                    "maxItems": 1,
+                    "quantity": 0,
+                    "attachments": []
+                },
+                {
+                    "itemName": "WoodAxe",
+                    "chance": 0.3,
+                    "minItems": 1,
+                    "maxItems": 1,
+                    "quantity": 0,
+                    "attachments": []
+                },
+                {
+                    "itemName": "ElectronicRepairKit",
+                    "chance": 0.3,
+                    "minItems": 1,
+                    "maxItems": 1,
+                    "quantity": 0,
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "randomPresetName": "Municao",
+            "globalLootItems": [
+				{
+					"itemName": "Ammo_308Win",
+					"chance": 0.4,
+					"minItems": 1,
+					"maxItems": 1,
+					"quantity": 0,
+					"attachments": []
+				},
+				{
+					"itemName": "Ammo_308WinTracer",
+					"chance": 0.4,
+					"minItems": 1,
+					"maxItems": 1,
+					"quantity": 0,
+					"attachments": []
+				},
+				{
+					"itemName": "Ammo_556x45",
+					"chance": 0.4,
+					"minItems": 1,
+					"maxItems": 1,
+					"quantity": 0,
+					"attachments": []
+				},
+				{
+					"itemName": "Ammo_556x45Tracer",
+					"chance": 0.4,
+					"minItems": 1,
+					"maxItems": 1,
+					"quantity": 0,
+					"attachments": []
+				},
+				{
+					"itemName": "Ammo_762x54",
+					"chance": 0.4,
+					"minItems": 1,
+					"maxItems": 1,
+					"quantity": 0,
+					"attachments": []
+				},
+				{
+					"itemName": "Ammo_762x54Tracer",
+					"chance": 0.4,
+					"minItems": 1,
+					"maxItems": 1,
+					"quantity": 0,
+					"attachments": []
+				},
+				{
+					"itemName": "Ammo_762x39",
+					"chance": 0.4,
+					"minItems": 1,
+					"maxItems": 1,
+					"quantity": 0,
+					"attachments": []
+				},
+				{
+					"itemName": "Ammo_762x39Tracer",
+					"chance": 0.4,
+					"minItems": 1,
+					"maxItems": 1,
+					"quantity": 0,
+					"attachments": []
+				},
+				{
+					"itemName": "Ammo_9x39AP",
+					"chance": 0.4,
+					"minItems": 1,
+					"maxItems": 1,
+					"quantity": 0,
+					"attachments": []
+				},
+				{
+					"itemName": "Ammo_9x39",
+					"chance": 0.4,
+					"minItems": 1,
+					"maxItems": 1,
+					"quantity": 0,
+					"attachments": []
+				},
+				{
+					"itemName": "Ammo_12gaPellets",
+					"chance": 0.4,
+					"minItems": 1,
+					"maxItems": 1,
+					"quantity": 0,
+					"attachments": []
+				},
+				{
+					"itemName": "Ammo_12gaSlug",
+					"chance": 0.4,
+					"minItems": 1,
+					"maxItems": 1,
+					"quantity": 0,
+					"attachments": []
+				},
+				{
+					"itemName": "Ammo_12gaRubberSlug",
+					"chance": 0.4,
+					"minItems": 1,
+					"maxItems": 1,
+					"quantity": 0,
+					"attachments": []
+				},
+				{
+					"itemName": "Ammo_357",
+					"chance": 0.4,
+					"minItems": 1,
+					"maxItems": 1,
+					"quantity": 0,
+					"attachments": []
+				},
+				{
+					"itemName": "Ammo_545x39",
+					"chance": 0.4,
+					"minItems": 1,
+					"maxItems": 1,
+					"quantity": 0,
+					"attachments": []
+				},
+				{
+					"itemName": "Ammo_545x39Tracer",
+					"chance": 0.4,
+					"minItems": 1,
+					"maxItems": 1,
+					"quantity": 0,
+					"attachments": []
+				},
+				{
+					"itemName": "TTC_AmmoBox_338mm_10Rnd",
+					"chance": 0.25,
+					"minItems": 1,
+					"maxItems": 1,
+					"quantity": 0,
+					"attachments": []
+				}
+            ]
+        },
+        {
+            "randomPresetName": "Magazine",
+            "globalLootItems": [
+                {
+                    "itemName": "Mag_Aug_30Rnd",
+                    "chance": 0.40,
+                    "minItems": 1,
+                    "maxItems": 1,
+                    "quantity": 0,
+                    "attachments": []
+                },
+				{
+                    "itemName": "Mag_FAMAS_25Rnd",
+                    "chance": 0.40,
+                    "minItems": 1,
+                    "maxItems": 1,
+                    "quantity": 0,
+                    "attachments": []
+                },
+				{
+                    "itemName": "Mag_SV98_10Rnd",
+                    "chance": 0.40,
+                    "minItems": 1,
+                    "maxItems": 1,
+                    "quantity": 0,
+                    "attachments": []
+                },
+				{
+                    "itemName": "Mag_SVD_10Rnd",
+                    "chance": 0.40,
+                    "minItems": 1,
+                    "maxItems": 1,
+                    "quantity": 0,
+                    "attachments": []
+                },
+				{
+                    "itemName": "Mag_M14_20Rnd",
+                    "chance": 0.40,
+                    "minItems": 1,
+                    "maxItems": 1,
+                    "quantity": 0,
+                    "attachments": []
+                },
+				{
+                    "itemName": "Mag_Vikhr_30Rnd",
+                    "chance": 0.40,
+                    "minItems": 1,
+                    "maxItems": 1,
+                    "quantity": 0,
+                    "attachments": []
+                },
+				{
+                    "itemName": "Mag_VAL_20Rnd",
+                    "chance": 0.40,
+                    "minItems": 1,
+                    "maxItems": 1,
+                    "quantity": 0,
+                    "attachments": []
+                },
+				{
+                    "itemName": "Mag_AK101_30Rnd",
+                    "chance": 0.40,
+                    "minItems": 1,
+                    "maxItems": 1,
+                    "quantity": 0,
+                    "attachments": []
+                },
+				{
+                    "itemName": "Mag_AK74_45Rnd",
+                    "chance": 0.40,
+                    "minItems": 1,
+                    "maxItems": 1,
+                    "quantity": 0,
+                    "attachments": []
+                },
+				{
+                    "itemName": "Mag_AKM_Drum75Rnd",
+                    "chance": 0.40,
+                    "minItems": 1,
+                    "maxItems": 1,
+                    "quantity": 0,
+                    "attachments": []
+                },
+				{
+                    "itemName": "Mag_CMAG_40Rnd",
+                    "chance": 0.40,
+                    "minItems": 1,
+                    "maxItems": 1,
+                    "quantity": 0,
+                    "attachments": []
+                },
+				{
+                    "itemName": "Mag_STANAG_60Rnd",
+                    "chance": 0.40,
+                    "minItems": 1,
+                    "maxItems": 1,
+                    "quantity": 0,
+                    "attachments": []
+                },
+				{
+                    "itemName": "TTC_DMR_762Stanag_20rnd",
+                    "chance": 0.40,
+                    "minItems": 1,
+                    "maxItems": 1,
+                    "quantity": 0,
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "randomPresetName": "Pistolas",
+            "globalLootItems": [
+                {
+                    "itemName": "Deagle",
+                    "chance": 0.40,
+                    "minItems": 1,
+                    "maxItems": 1,
+                    "quantity": 0,
+                    "attachments": []
+                },
+                {
+                    "itemName": "Deagle_Gold",
+                    "chance": 0.40,
+                    "minItems": 1,
+                    "maxItems": 1,
+                    "quantity": 0,
+                    "attachments": []
+                },
+                {
+                    "itemName": "Glock19",
+                    "chance": 0.40,
+                    "minItems": 1,
+                    "maxItems": 1,
+                    "quantity": 0,
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "randomPresetName": "Rifles",
+            "globalLootItems": [
+                {
+                    "itemName": "Aug",
+                    "chance": 0.40,
+                    "minItems": 1,
+                    "maxItems": 1,
+                    "quantity": 0,
+                    "attachments": []
+                },
+                {
+                    "itemName": "M4A1",
+                    "chance": 0.40,
+                    "minItems": 1,
+                    "maxItems": 1,
+                    "quantity": 0,
+                    "attachments": []
+                },
+                {
+                    "itemName": "FAL",
+                    "chance": 0.40,
+                    "minItems": 1,
+                    "maxItems": 1,
+                    "quantity": 0,
+                    "attachments": []
+                },
+                {
+                    "itemName": "m16a2",
+                    "chance": 0.40,
+                    "minItems": 1,
+                    "maxItems": 1,
+                    "quantity": 0,
+                    "attachments": []
+                },
+                {
+                    "itemName": "ak101",
+                    "chance": 0.40,
+                    "minItems": 1,
+                    "maxItems": 1,
+                    "quantity": 0,
+                    "attachments": []
+                },
+                {
+                    "itemName": "ASVAL",
+                    "chance": 0.40,
+                    "minItems": 1,
+                    "maxItems": 1,
+                    "quantity": 0,
+                    "attachments": []
+                },
+                {
+                    "itemName": "FAMAS",
+                    "chance": 0.40,
+                    "minItems": 1,
+                    "maxItems": 1,
+                    "quantity": 0,
+                    "attachments": []
+                },
+                {
+                    "itemName": "SV98",
+                    "chance": 0.3,
+                    "minItems": 1,
+                    "maxItems": 1,
+                    "quantity": 0,
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "randomPresetName": "Coletes",
+            "globalLootItems": [
+                {
+					"itemName": "PressVest_Blue",
+					"chance": 0.5,
+					"minItems": 1,
+					"maxItems": 1,
+					"quantity": 0,
+					"attachments": []
+				},
+				{
+					"itemName": "Defender_Vest_Black",
+					"chance": 0.3,
+					"minItems": 1,
+					"maxItems": 1,
+					"quantity": 0,
+					"attachments": []
+				},
+				{
+					"itemName": "Defender_Vest_Green",
+					"chance": 0.3,
+					"minItems": 1,
+					"maxItems": 1,
+					"quantity": 0,
+					"attachments": []
+				},
+				{
+					"itemName": "PlateCarrierVest_Green",
+					"chance": 0.1,
+					"minItems": 1,
+					"maxItems": 1,
+					"quantity": 0,
+					"attachments": []
+				},
+				{
+					"itemName": "PlateCarrierVest_Black",
+					"chance": 0.1,
+					"minItems": 1,
+					"maxItems": 1,
+					"quantity": 0,
+					"attachments": []
+				}
+            ]
+        },
+        {
+            "randomPresetName": "Capacetes",
+            "globalLootItems": [
+				{
+					"itemName": "GorkaHelmet",
+					"chance": 0.15,
+					"minItems": 1,
+					"maxItems": 1,
+					"quantity": 0,
+					"attachments": []
+				},
+				{
+					"itemName": "BallisticHelmet_Black",
+					"chance": 0.3,
+					"minItems": 1,
+					"maxItems": 1,
+					"quantity": 0,
+					"attachments": []
+				},
+				{
+					"itemName": "BallisticHelmet_Green",
+					"chance": 0.3,
+					"minItems": 1,
+					"maxItems": 1,
+					"quantity": 0,
+					"attachments": []
+				},
+				{
+					"itemName": "Mich2001Helmet",
+					"chance": 0.3,
+					"minItems": 1,
+					"maxItems": 1,
+					"quantity": 0,
+					"attachments": []
+				}
+            ]
+        },
+        {
+            "randomPresetName": "Vultar",
+            "globalLootItems": [
+                {
+					"itemName": "TTC_DMR_Barrel_762",
+					"chance": 1.0,
+					"minItems": 1,
+					"maxItems": 1,
+					"quantity": 0,
+					"attachments": []
+				}
             ]
         }
     ]

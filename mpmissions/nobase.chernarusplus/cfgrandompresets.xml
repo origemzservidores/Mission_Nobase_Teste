@@ -749,4 +749,7 @@
     <item name="Mag_STANAG_60Rnd" chance="0.05" />
     <item name="Mag_AKM_Drum75Rnd" chance="0.05" />
   </cargo>
+  <attachments chance="1" name="ZmbM_usSoldier_Officer_Desert">
+    <item name="PunchedCard" chance="0.70" />
+  </attachments>
 </randompresets>

@@ -2,25 +2,95 @@
     "loglevel": 0,
     "BubakLocations": [
         {
-            "forceclear": 0,
-            "name": "BUNKER HofySoy",
-            "workinghours": "0-24",
+            "forceclear": 1,
+            "name": "BUNKER 1",
+            "workinghours": "",
             "triggerdependency": [
                 ""
             ],
-            "triggerpos": "7741.371094 26.887268 714.954956",
+            "triggerpos": "8608.869141 164.879898 13636.819336", 
             "triggermins": "",
             "triggermaxs": "",
             "triggerradius": 0.0,
-            "triggercylradius": 0.0,
-            "triggercylheight": 0.0,
-            "notification": "Alarme de invasão ativado!!",
+            "triggercylradius": 3.0,
+            "triggercylheight": 3.0,
+            "notification": "",
             "notificationtime": 2,
-            "triggerdelay": 300,
+            "triggerdelay": 1800,
             "spawnerpos": [
-                "7769.395508 26.935551 729.968201",
-                "7790.08 26.9216 712.665",
-                "7791.77 26.9326 733.759"
+                "8613.088867 164.898727 13611.744141",
+                "8621.049805 164.879562 13604.015625",
+                "8639.011719 164.879547 13605.549805",
+                "8588.601563 164.883545 13608.794922",
+                "8612.953125 164.898727 13588.391602",
+                "8604.029297 164.876556 13593.162109",
+                "8625.852539 164.881561 13588.266602",
+                "8587.432617 164.876541 13583.358398"
+            ],
+            "spawnradius": -1.0,
+            "bubaknum": 8,
+            "onlyfilluptobubaknum": 0,
+            "itemrandomdmg": 0,
+            "entitytospawn": [
+                {
+                    "name": "ZmbM_NBC_Yellow",
+                    "chance": 1.0,
+                    "maxloot": 1,
+                    "inventory": [
+                        {
+                            "name": "M67Grenade",
+                            "chance": 0.5,
+                            "min": 1,
+                            "max": 1,
+                            "quantity": 1
+                        }
+                    ]
+                },
+                {
+                    "name": "ZmbM_NBC_Grey",
+                    "chance": 1.0,
+                    "maxloot": 1,
+                    "inventory": [
+                        {
+                            "name": "M67Grenade",
+                            "chance": 0.5,
+                            "min": 1,
+                            "max": 1,
+                            "quantity": 1
+                        }
+                    ]
+                },
+                {
+                    "name": "AP_zmb_omon",
+                    "chance": 1.0,
+                    "maxloot": 0,
+                    "inventory": []
+                }
+            ],
+            "customScripts": [
+                ""
+            ]
+        },
+        {
+            "forceclear": 1,
+            "name": "BUNKER 2",
+            "workinghours": "",
+            "triggerdependency": [
+                ""
+            ],
+            "triggerpos": "8612.882813 164.883698 13577.377930",
+            "triggermins": "",
+            "triggermaxs": "",
+            "triggerradius": 0.0,
+            "triggercylradius": 5.0,
+            "triggercylheight": 3.0,
+            "notification": "",
+            "notificationtime": 2,
+            "triggerdelay": 1800,
+            "spawnerpos": [
+                "8591.474609 164.873550 13553.949219",
+                "8603.268555 164.873566 13557.429688",
+                "8597.359375 164.873566 13548.767578"
             ],
             "spawnradius": -1.0,
             "bubaknum": 3,
@@ -30,73 +100,203 @@
                 {
                     "name": "ZmbM_NBC_Yellow",
                     "chance": 1.0,
-                    "maxloot": 3,
+                    "maxloot": 1,
                     "inventory": [
                         {
                             "name": "M67Grenade",
-                            "chance": 1.0,
+                            "chance": 0.5,
                             "min": 1,
                             "max": 1,
                             "quantity": 1
-                        },
-                        {
-                            "name": "SpaghettiCan_Opened",
-                            "chance": 0.6000000238418579,
-                            "min": 1,
-                            "max": 1,
-                            "quantity": 20
-                        },
-                        {
-                            "name": "Ammo_762x54",
-                            "chance": 0.20000000298023225,
-                            "min": 1,
-                            "max": 1,
-                            "quantity": 50
-                        },
-                        {
-                            "name": "Ammo_556x45",
-                            "chance": 0.800000011920929,
-                            "min": 1,
-                            "max": 1,
-                            "quantity": 80
                         }
                     ]
                 },
                 {
                     "name": "ZmbM_NBC_Grey",
                     "chance": 1.0,
-                    "maxloot": 3,
+                    "maxloot": 1,
                     "inventory": [
                         {
                             "name": "M67Grenade",
-                            "chance": 1.0,
+                            "chance": 0.5,
                             "min": 1,
                             "max": 1,
                             "quantity": 1
-                        },
-                        {
-                            "name": "SpaghettiCan_Opened",
-                            "chance": 0.6000000238418579,
-                            "min": 1,
-                            "max": 1,
-                            "quantity": 20
-                        },
-                        {
-                            "name": "Ammo_762x54",
-                            "chance": 0.20000000298023225,
-                            "min": 1,
-                            "max": 1,
-                            "quantity": 50
-                        },
-                        {
-                            "name": "Ammo_556x45",
-                            "chance": 0.800000011920929,
-                            "min": 1,
-                            "max": 1,
-                            "quantity": 80
                         }
                     ]
                 },
+                {
+                    "name": "AP_zmb_omon",
+                    "chance": 1.0,
+                    "maxloot": 0,
+                    "inventory": []
+                }
+            ],
+            "customScripts": [
+                ""
+            ]
+        },
+        {
+            "forceclear": 1,
+            "name": "BUNKER 3",
+            "workinghours": "",
+            "triggerdependency": [
+                ""
+            ],
+            "triggerpos": "8622.536133 165.025589 13576.678711",
+            "triggermins": "",
+            "triggermaxs": "",
+            "triggerradius": 0.0,
+            "triggercylradius": 2.0,
+            "triggercylheight": 3.0,
+            "notification": "",
+            "notificationtime": 2,
+            "triggerdelay": 1800,
+            "spawnerpos": [
+                "8628.299805 157.566589 13576.741211",
+                "8626.659180 149.975723 13578.267578",
+                "8622.966797 155.009811 13576.826172"
+            ],
+            "spawnradius": -1.0,
+            "bubaknum": 3,
+            "onlyfilluptobubaknum": 0,
+            "itemrandomdmg": 0,
+            "entitytospawn": [
+                {
+                    "name": "ZmbM_NBC_Yellow",
+                    "chance": 1.0,
+                    "maxloot": 1,
+                    "inventory": [
+                        {
+                            "name": "M67Grenade",
+                            "chance": 0.5,
+                            "min": 1,
+                            "max": 1,
+                            "quantity": 1
+                        }
+                    ]
+                },
+                {
+                    "name": "ZmbM_NBC_Grey",
+                    "chance": 1.0,
+                    "maxloot": 1,
+                    "inventory": [
+                        {
+                            "name": "M67Grenade",
+                            "chance": 0.5,
+                            "min": 1,
+                            "max": 1,
+                            "quantity": 1
+                        }
+                    ]
+                },
+                {
+                    "name": "AP_zmb_omon",
+                    "chance": 1.0,
+                    "maxloot": 0,
+                    "inventory": []
+                }
+            ],
+            "customScripts": [
+                ""
+            ]
+        },
+        {
+            "forceclear": 1,
+            "name": "BUNKER 4",
+            "workinghours": "",
+            "triggerdependency": [
+                ""
+            ],
+            "triggerpos": "8621.868164 149.978241 13576.679688",
+            "triggermins": "",
+            "triggermaxs": "",
+            "triggerradius": 0.0,
+            "triggercylradius": 3.0,
+            "triggercylheight": 3.0,
+            "notification": "",
+            "notificationtime": 2,
+            "triggerdelay": 1800,
+            "spawnerpos": [
+                "8604.609375 149.995819 13577.608398",
+                "8613.132813 150.039307 13570.952148",
+                "8609.325195 150.039307 13566.213867",
+                "8618.060547 150.039322 13565.856445",
+                "8615.964844 150.039307 13554.618164",
+                "8609.420898 150.039307 13554.807617"
+            ],
+            "spawnradius": -1.0,
+            "bubaknum": 6,
+            "onlyfilluptobubaknum": 0,
+            "itemrandomdmg": 0,
+            "entitytospawn": [
+                {
+                    "name": "ZmbM_NBC_Yellow",
+                    "chance": 1.0,
+                    "maxloot": 1,
+                    "inventory": [
+                        {
+                            "name": "M67Grenade",
+                            "chance": 0.5,
+                            "min": 1,
+                            "max": 1,
+                            "quantity": 1
+                        }
+                    ]
+                },
+                {
+                    "name": "ZmbM_NBC_Grey",
+                    "chance": 1.0,
+                    "maxloot": 1,
+                    "inventory": [
+                        {
+                            "name": "M67Grenade",
+                            "chance": 0.5,
+                            "min": 1,
+                            "max": 1,
+                            "quantity": 1
+                        }
+                    ]
+                },
+                {
+                    "name": "AP_zmb_omon",
+                    "chance": 1.0,
+                    "maxloot": 0,
+                    "inventory": []
+                }
+            ],
+            "customScripts": [
+                ""
+            ]
+        },
+        {
+            "forceclear": 1,
+            "name": "BUNKER 5",
+            "workinghours": "",
+            "triggerdependency": [
+                ""
+            ],
+            "triggerpos": "8604.032227 150.045593 13555.223633",
+            "triggermins": "",
+            "triggermaxs": "",
+            "triggerradius": 0.0,
+            "triggercylradius": 3.0,
+            "triggercylheight": 3.0,
+            "notification": "",
+            "notificationtime": 2,
+            "triggerdelay": 1800,
+            "spawnerpos": [
+                "8603.213867 145.044815 13555.402344",
+                "8598.241211 142.600052 13555.587891",
+                "8598.986328 140.010727 13553.722656",
+                "8608.659180 139.943222 13550.266602",
+                "8608.858398 139.943222 13538.446289"
+            ],
+            "spawnradius": -1.0,
+            "bubaknum": 5,
+            "onlyfilluptobubaknum": 0,
+            "itemrandomdmg": 0,
+            "entitytospawn": [
                 {
                     "name": "AP_zmb_omon",
                     "chance": 1.0,
